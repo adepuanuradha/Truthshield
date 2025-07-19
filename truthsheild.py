@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1G5iBd7Qu4hLhwKnT9Oz90rBtp5dxtH-U
 """
 
-GOOGLE_API_KEY = "AIzaSyBzxYkuZTf2t5iQULXRVn71k-8QHFUgDtQ"
+GOOGLE_API_KEY ="your google API key"
 EMAIL_API = "https://emailrep.io/"
 NUMVERIFY_API_KEY = "e43678c70cc99b8312c41a9e18b9070f"
 
