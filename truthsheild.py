@@ -9,7 +9,7 @@ Original file is located at
 
 GOOGLE_API_KEY ="your google API key"
 EMAIL_API = "https://emailrep.io/"
-NUMVERIFY_API_KEY = "e43678c70cc99b8312c41a9e18b9070f"
+NUMVERIFY_API_KEY ="numberifykey"
 
 !pip install gradio
 
